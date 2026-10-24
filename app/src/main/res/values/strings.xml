@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">My Seen</string>
+    <string name="nav_my_shows">My Shows</string>
+    <string name="nav_statistics">Statistics</string>
+
+    <string name="my_shows_title">My Seen</string>
+    <string name="my_shows_subtitle">Kelola tontonanmu dengan mudah</string>
+    <string name="search_hint">Cari judul film atau drama…</string>
+
+    <string name="statistics_title">Statistics</string>
+    <string name="statistics_subtitle">Ringkasan tontonanmu</string>
+
+    <string name="status_ingin">Ingin Ditonton</string>
+    <string name="status_sedang">Sedang Ditonton</string>
+    <string name="status_sudah">Sudah Ditonton</string>
+    <string name="filter_all">Semua</string>
+
+    <string name="add_show_title">Tambah Show</string>
+    <string name="add_show_subtitle">Tambahkan film atau drama baru</string>
+    <string name="edit_show_title">Edit Show</string>
+    <string name="edit_show_subtitle">Edit film atau drama</string>
+
+    <string name="label_title">Judul</string>
+    <string name="label_genre">Genre</string>
+    <string name="label_status">Status</string>
+    <string name="label_rating">Rating (1 - 10)</string>
+    <string name="label_date">Tanggal Ditambahkan</string>
+    <string name="label_time">Waktu Ditambahkan</string>
+    <string name="label_note">Catatan (Opsional)</string>
+
+    <string name="hint_title">Masukkan judul film atau drama</string>
+    <string name="hint_genre">Pilih genre</string>
+    <string name="hint_note">Tulis catatan tentang show ini…</string>
+
+    <string name="btn_cancel">Batal</string>
+    <string name="btn_save">Simpan</string>
+    <string name="btn_save_rating">Simpan Rating</string>
+    <string name="btn_delete">Hapus</string>
+    <string name="btn_edit">Edit</string>
+
+    <string name="rating_info_locked">Rating dapat diisi setelah show berstatus \"Sudah Ditonton\".</string>
+    <string name="rating_info_open">Berikan rating untuk show yang sudah kamu tonton.</string>
+    <string name="rating_dialog_title">Beri Rating</string>
+    <string name="rating_dialog_subtitle">Bagaimana menurutmu show ini?</string>
+
+    <string name="col_no">No</string>
+    <string name="col_title">Judul</string>
+    <string name="col_genre">Genre</string>
+    <string name="col_rating">Rating</string>
+    <string name="col_status">Status</string>
+    <string name="col_date">Tanggal\nDitambahkan</string>
+    <string name="col_action">Aksi</string>
+
+    <string name="section_ringkasan">Ringkasan</string>
+    <string name="label_total">Total Tontonan</string>
+    <string name="label_persentase_status">Persentase Status</string>
+    <string name="label_genre_chart">Tontonan per Genre</string>
+    <string name="label_rating_avg">Rating Rata-rata</string>
+    <string name="label_top5">Top 5 Rating Tertinggi</string>
+    <string name="label_recent">Aktivitas Terbaru</string>
+    <string name="label_from_count">Dari %d tontonan yang sudah ditonton</string>
+
+    <string name="filter_today">Hari Ini</string>
+    <string name="filter_week">Minggu Ini</string>
+    <string name="filter_month">Bulan Ini</string>
+    <string name="filter_all_time">Semua Waktu</string>
+
+    <string name="delete_confirm_title">Hapus Show</string>
+    <string name="delete_confirm_msg">Apakah kamu yakin ingin menghapus \"%s\"?</string>
+    <string name="empty_list">Belum ada data. Tap + untuk menambahkan!</string>
+    <string name="validation_title_empty">Judul tidak boleh kosong</string>
+    <string name="validation_genre_empty">Genre harus dipilih</string>
+    <string name="validation_rating_empty">Rating harus diisi untuk show yang sudah ditonton</string>
+    <string name="validation_date_empty">Tanggal harus diisi</string>
+    <string name="validation_time_empty">Waktu harus diisi</string>
+</resources>

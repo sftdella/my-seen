@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font
+        app:font="@font/plusjakartasans_medium"
+        app:fontWeight="500"
+        app:fontStyle="normal" />
+    <font
+        app:font="@font/plusjakartasans_bold"
+        app:fontWeight="700"
+        app:fontStyle="normal" />
+    <font
+        app:font="@font/plusjakartasans_extrabold"
+        app:fontWeight="800"
+        app:fontStyle="normal" />
+</font-family>

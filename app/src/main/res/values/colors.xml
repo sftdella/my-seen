@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F8F9FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="primary">#6C63FF</color>
+    <color name="primary_dark">#5A52D5</color>
+    <color name="primary_light">#EEF0FF</color>
+
+    <color name="ingin_ditonton">#FFA500</color>
+    <color name="ingin_ditonton_bg">#FFF3E0</color>
+    <color name="ingin_ditonton_border">#FFD080</color>
+
+    <color name="sedang_ditonton">#2196F3</color>
+    <color name="sedang_ditonton_bg">#E3F2FD</color>
+    <color name="sedang_ditonton_border">#90CAF9</color>
+
+    <color name="sudah_ditonton">#4CAF50</color>
+    <color name="sudah_ditonton_bg">#E8F5E9</color>
+    <color name="sudah_ditonton_border">#A5D6A7</color>
+
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_header_table">#6C63FF</color>
+    <color name="divider">#E5E7EB</color>
+    <color name="star_color">#FFC107</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="delete_red">#EF5350</color>
+    <color name="edit_purple">#6C63FF</color>
+    <color name="chip_selected_bg">#6C63FF</color>
+    <color name="chip_selected_text">#FFFFFF</color>
+    <color name="chip_unselected_bg">#FFFFFF</color>
+    <color name="chip_unselected_text">#1A1A2E</color>
+    <color name="chip_border">#D1D5DB</color>
+</resources>
